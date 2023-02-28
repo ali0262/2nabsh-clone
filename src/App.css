@@ -1,0 +1,8 @@
+@font-face {
+    font-family:'shabnam' ;
+    src:local('shabnam') ,url('./fonts/Shabnam.Font.4.0.0_YasDL.com/Farsi-Digits-Without-Latin/Shabnam-FD-WOL.woff')format('woff');
+}
+
+*{
+    font-family: 'shabnam';
+}
